@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: RedLine-CPA/RedLineCPA-gatsby-netlify-cms
+  branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
